@@ -21,13 +21,21 @@ J.A.R.V.I.S is an AI-powered virtual assistant that can help you with various ta
 The following libraries need to be installed:
 
 pip install pyttsx3
+
 pip install SpeechRecognition
+
 pip install wikipedia
+
 pip install smtplib
+
 pip install pyautogui
+
 pip install psutil
+
 pip install pyjokes
+
 pip install requests
+
 
 Installation
 Clone the repository:
