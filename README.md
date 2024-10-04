@@ -20,7 +20,6 @@ J.A.R.V.I.S is an AI-powered virtual assistant that can help you with various ta
 ### Python Libraries:
 The following libraries need to be installed:
 
-
 pip install pyttsx3
 pip install SpeechRecognition
 pip install wikipedia
@@ -33,25 +32,24 @@ pip install requests
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/jarvis-ai-assistant.git
 Navigate to the project directory:
 
-bash
-Copy code
+
+
 cd jarvis-ai-assistant
 Install required dependencies: Install all required Python libraries listed in the requirements section:
 
-bash
-Copy code
+
+
 pip install -r requirements.txt
 Run the application: Start the application using the following command:
 
 
 python main.py
 
-Voice Commands:
+##Voice Commands:
 
 Open Websites:
   "Open YouTube"
@@ -76,13 +74,13 @@ Send Email:
 Customization:
   You can modify and extend this assistant by adding more functionalities like playing music, integrating more APIs, or controlling smart devices.
 
-API Used
+##API Used
   OpenWeatherMap API for fetching weather information.
 
-License
+##License
   This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+##Contact
 Created by [Your Name] - feel free to contact me at your.email@example.com
 
 
