@@ -41,7 +41,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/jarvis-ai-assistant.git
+git clone https://github.com/ManasiRN/jarvis-ai-assistant.git
 Navigate to the project directory:
 
 
