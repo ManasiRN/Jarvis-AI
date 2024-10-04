@@ -37,16 +37,6 @@ pip install pyjokes
 pip install requests
 
 
-Installation
-Clone the repository:
-
-
-git clone https://github.com/ManasiRN/jarvis-ai-assistant.git
-Navigate to the project directory:
-
-
-
-cd jarvis-ai-assistant
 Install required dependencies: Install all required Python libraries listed in the requirements section:
 
 
